@@ -29,5 +29,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Owner and contact
 
 DuongDT
-FB   : https://www.facebook.com/tricker.dg
+FB   : https://www.facebook.com/tricker.dg.
+
 Email: duongdtse02570@gmail.com
